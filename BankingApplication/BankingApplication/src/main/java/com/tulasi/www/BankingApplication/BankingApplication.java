@@ -11,5 +11,6 @@ public class BankingApplication {
 		int a=10;
 		SpringApplication.run(BankingApplication.class, args);
 	}
+	String str="Radha";
 
 }
